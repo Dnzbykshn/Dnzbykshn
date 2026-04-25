@@ -18,7 +18,7 @@
 
 ## 🧑‍💻 About Me
 
-```yaml
+``
 name:        Dnzbykshn
 location:    Earth 🌍
 role:        Developer & Tinkerer
