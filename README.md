@@ -12,21 +12,5 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Dnzbykshn&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 [![GitHub followers](https://img.shields.io/github/followers/Dnzbykshn?style=for-the-badge&color=blue&labelColor=1a1b27)](https://github.com/Dnzbykshn?tab=followers)
 
-</div>
-
----
-
-## 🧑‍💻 About Me
-
-``
-name:        Dnzbykshn
-location:    Earth 🌍
-role:        Developer & Tinkerer
-passions:    ["Coding", "Open Source", "Problem Solving", "Learning"]
-currently:   Building awesome projects & exploring new technologies
-fun_fact:    I debug with coffee ☕ and deploy with courage 🚀
-` ` `
-
----
 
 
